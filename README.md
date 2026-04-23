@@ -30,19 +30,19 @@ Rather than just learning theory, I actively work on **real implementations** in
 
 ---
 
-## 🛠 Tech Stack
+🛠️ Tech Stack
 
-**Languages:**
-Python • Java
+Languages: Python • Java • JavaScript
 
-**Cloud:**
-AWS (S3, EC2, IAM)
+Frontend: HTML • CSS • JavaScript • React.js
 
-**DevOps & Tools:**
-Docker • Git • GitHub Actions • Terraform
+Backend/Database: MongoDB
 
-**Monitoring (Basics):**
-System monitoring & logging
+Cloud: AWS (S3, EC2, IAM)
+
+DevOps & Tools: Docker • Git • GitHub Actions • Terraform
+
+Monitoring (Basics): System monitoring & logging
 
 ---
 
