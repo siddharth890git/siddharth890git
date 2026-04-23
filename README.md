@@ -48,26 +48,33 @@ System monitoring & logging
 
 ## 🚀 Projects
 
-### 🔹 Secure File Transfer System
+### 🔹 E-Commerce Website (Valorant Account Store)
+
+* Developed a niche **e-commerce platform** for buying/selling Valorant accounts
+* Built using **HTML, CSS, JavaScript** (mention backend if used)
+* Implemented product listings, pricing display, and user interaction flow
+* Focused on **UI/UX and structured product management**
+
+---
+
+### 🔹 Cloud-Based Secure File Transfer System
 
 * Built using **Python + AWS S3**
-* Implements secure upload/download with backup
-* Focus on data safety and reliability
+* Enables secure file upload, download, and backup
+* Focus on **data security, reliability, and cloud storage automation**
+* Demonstrates real-world **cloud integration and system design**
 
 ---
 
-### 🔹 CI/CD Pipeline Automation
+### 🔹 Leaf Disease Detection System 🌿
 
-* Automated build & deployment using **GitHub Actions**
-* Reduced manual deployment effort
-* Hands-on with real DevOps workflow
+* Developed a **hybrid machine learning model** for plant leaf disease detection
+* Used **CNN (Convolutional Neural Networks)** for feature extraction from images
+* Applied **SVM (Support Vector Machine)** and **Random Forest** for classification
+* Improved prediction accuracy by combining deep learning with traditional ML models
+* Helps in **early disease detection for better agricultural decision-making**
+* Tech used: Python, TensorFlow/Keras, OpenCV, Scikit-learn
 
----
-
-### 🔹 System Monitoring Tool
-
-* Tracks CPU, memory, and system performance
-* Helps detect anomalies and improve system stability
 
 ---
 
