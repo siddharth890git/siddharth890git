@@ -75,21 +75,6 @@ System monitoring & logging
 * Helps in **early disease detection for better agricultural decision-making**
 * Tech used: Python, TensorFlow/Keras, OpenCV, Scikit-learn
 
-
----
-
-## 📊 GitHub Stats
-
-![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddharth890git\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth890git\&layout=compact\&theme=tokyonight)
-
----
-
-## 📈 Contribution Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=siddharth890git\&theme=tokyonight)
-
 ---
 
 ## 🤝 Open to Collaborate
